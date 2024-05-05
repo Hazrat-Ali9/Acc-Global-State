@@ -1,3 +1,4 @@
+// Product Reducer
 import {
   ADD_PRODUCT,
   ADD_TO_CART,
