@@ -1,3 +1,4 @@
+// Delete Product
 import { removeProduct } from "../../actions/productAction";
 
 const deleteProduct = (id) => {
