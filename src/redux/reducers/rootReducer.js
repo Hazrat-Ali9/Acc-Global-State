@@ -1,3 +1,4 @@
+// Root Reducer
 import { combineReducers } from "redux";
 import { filterReducer } from "./filterReducer";
 import productReducer from "./productReducer";
