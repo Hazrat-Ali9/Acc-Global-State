@@ -1,3 +1,4 @@
+// Fetch Product
 import { loadProduct } from "../../actions/productAction";
 
 const loadProductData = () => {
