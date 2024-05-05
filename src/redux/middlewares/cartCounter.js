@@ -1,3 +1,4 @@
+// Card Counter
 import { ADD_TO_CART } from "../actionTypes/actionTypes";
 
 const cartCounter = (store) => (next) => (action) => {
