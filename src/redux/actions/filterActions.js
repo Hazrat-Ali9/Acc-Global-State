@@ -1,3 +1,4 @@
+// Filter Actions
 import { TOGGLE_BRAND, TOGGLE_STOCK } from "../actionTypes/actionTypes";
 
 export const toggleBrand = (brandName) => {
