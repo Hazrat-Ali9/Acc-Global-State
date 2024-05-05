@@ -1,3 +1,4 @@
+// Top Rated
 import React from "react";
 
 const TopRated = () => {
