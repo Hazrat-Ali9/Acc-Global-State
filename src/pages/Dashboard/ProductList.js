@@ -1,3 +1,4 @@
+// Product List
 import React, { useEffect } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import deleteProduct from "../../redux/thunk/products/deleteProduct";
