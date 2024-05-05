@@ -1,3 +1,4 @@
+// Filter Reducer
 import { TOGGLE_BRAND, TOGGLE_STOCK } from "../actionTypes/actionTypes";
 
 export const initialState = {
