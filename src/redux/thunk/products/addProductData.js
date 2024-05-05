@@ -1,3 +1,4 @@
+// Add Product
 import { addProduct } from "../../actions/productAction";
 
 const addProductData = (product) => {
